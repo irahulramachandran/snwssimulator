@@ -1,0 +1,16 @@
+{
+    "name": "application-name"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "2.5.8"
+    , "jade": ">= 0.0.1"
+    , "request": "2.36.0"
+    , "mysql": "2.3.1"
+    , "aws-sdk": "2.0.0-rc.18"
+    , "cron": "1.0.4"
+    , "mime": "1.2.11"
+    , "emailjs": ">0.3.3"
+    , "winston":"0.8.0"
+  }
+}
